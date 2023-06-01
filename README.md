@@ -1,3 +1,5 @@
 # Bayersian-optimization
-This is code runing Bayersian Optimization to turning hyper-parameter in ML. 
+This is code for using Bayersian Optimization for turning hyper-parameter in ML. 
 The purpose of project is prediction the debt group of contract at the last month of lending period.
+
+The "Bayersian optimization.pdf" file is a summary about Bayersian Optimization algorithm. 
